@@ -17,5 +17,6 @@ int heapsort(int *array, ptrdiff_t size);
 int insertionsort(int *array, ptrdiff_t size);
 int binaryinsertionsort(int *array, ptrdiff_t size);
 int binarysort(int *array, ptrdiff_t size);
+int countingsort(int *array, ptrdiff_t size);
 
 #endif
