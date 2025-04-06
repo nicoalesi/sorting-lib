@@ -19,6 +19,7 @@ int binaryinsertionsort(int *array, ptrdiff_t size);
 int binarysort(int *array, ptrdiff_t size);
 int shakersort(int *array, ptrdiff_t size);
 int combsort(int *array, ptrdiff_t size);
+int cyclesort(int *array, ptrdiff_t size);
 int countingsort(int *array, ptrdiff_t size);
 
 #endif
