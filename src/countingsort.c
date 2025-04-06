@@ -1,8 +1,8 @@
 #include "sorting.h"
-#include <stdio.h>
+
 
 int countingsort(int *array, ptrdiff_t size) {
-    if (size < 1) return -1;
+    if (size < 1) return 0;
 
     int min = array[0];
     int max = array[0];
