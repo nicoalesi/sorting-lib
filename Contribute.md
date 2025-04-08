@@ -15,7 +15,9 @@ Everyone who wants to contribute is free to do it, pull requests are accepted as
 
 - Limit the Summary at 50 characters and write the Body in paragraphs wrapped at 72 characters.
 
-- Useful links: <br>
+<br>
+
+Useful links: <br>
 [How to write a commit message](https://cbea.ms/git-commit/) <br>
 [Commit messages, TheOdinProject](https://www.theodinproject.com/lessons/foundations-commit-messages)
 
