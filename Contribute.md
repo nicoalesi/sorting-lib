@@ -30,7 +30,7 @@ Useful links: <br>
 
 - Wrap lines at 85 characters.
 
-- Place pointers' asterisk (*) next to the name of the variable, not the type: <br>`<type> *<varname>` | i.e. `int *p`
+- Place pointers' asterisk (*) next to the name of the variable, not the type: <br>`<type> *<varname>` | i.e. `int *ptr`
 
 - Use spaces around operators. <br>
 Add spaces in control structures after the keyword. <br>
