@@ -1,5 +1,6 @@
 #include "sorting.h"
 
+
 int shellsort(int *array, ptrdiff_t size) {
     // Ciura's gap sequence
     int sequence[8] = {701, 301, 132, 57, 23, 10, 4, 1};

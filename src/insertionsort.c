@@ -8,9 +8,8 @@ int insertionsort(int *array, ptrdiff_t size) {
         value = array[i];
         j = i - 1;
 
-        while (j >= 0 && array[j] > value) {
+        for (j = i - 1; j >= 0 && array[j] > value; j--) {
             array[j + 1] = array[j];
-            j--;
         }
 
         array[j + 1] = value;
