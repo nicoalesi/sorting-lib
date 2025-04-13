@@ -1,5 +1,5 @@
 #include "linkedlist.h"
-#include <stdio.h>
+
 
 // Linked list add
 int lladd(llist_t *list, int value, arena_t *arena) {

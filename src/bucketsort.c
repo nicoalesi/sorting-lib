@@ -1,5 +1,4 @@
 #include "sorting.h"
-#include <stdio.h>
 
 
 // Insertion sort for bucket (linked list)
