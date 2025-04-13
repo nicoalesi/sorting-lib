@@ -24,5 +24,6 @@ int cyclesort(int *array, ptrdiff_t size);
 int shellsort(int *array, ptrdiff_t size);
 int countingsort(int *array, ptrdiff_t size);
 int bucketsort(int *array, ptrdiff_t size);
+int radixsort(int *array, ptrdiff_t size);
 
 #endif
