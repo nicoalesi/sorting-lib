@@ -25,7 +25,3 @@ $(BUILD_DIR)/%.o: $(SRC_DIR)/%.c
 
 $(EXECUTABLE): $(OBJECTS)
 	$(CC) $^ -o $@
-
-
-clean:
-	rm *.o
