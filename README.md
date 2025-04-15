@@ -16,7 +16,9 @@ To use this library follow these steps:
 1. Download all the files from GitHub. <br>
 It can be done by clicking on `<> Code` and then `Download ZIP` in the project's main page. You can also use *GitHub desktop* or *git*, the command to execute in the latter case is:
 
-```git clone https://github.com/nicoalesi/sorting-lib.git```
+```
+git clone https://github.com/nicoalesi/sorting-lib.git
+```
 
 2. Edit `Makefile`. <br>
 It currently searches for a file named `main.c` in the `src` folder but you can change it modifying `EXECUTABLE`.
